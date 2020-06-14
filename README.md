@@ -1,4 +1,4 @@
-## Software Architecture for Project.
+## Software Architecture Project.
 
 ### To run this project, do the following:
 
