@@ -1,7 +1,7 @@
 {
-  "name": "nodeapi",
+  "name": "API",
   "version": "1.0.0",
-  "description": "A Node Js API",
+  "description": "Rest api for software architecture project.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -11,7 +11,7 @@
     "node",
     "api"
   ],
-  "author": "Ryan Dhungel",
+  "author": "Devesh Vashishth",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
